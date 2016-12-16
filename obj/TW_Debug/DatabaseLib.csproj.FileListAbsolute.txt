@@ -1,0 +1,3 @@
+D:\Source\Workspaces\V30\Loader\Common\DatabaseLib\bin\TW_Debug\DatabaseLib.dll
+D:\Source\Workspaces\V30\Loader\Common\DatabaseLib\bin\TW_Debug\Oracle.ManagedDataAccess.dll
+D:\Source\Workspaces\V30\Loader\Common\DatabaseLib\obj\TW_Debug\DatabaseLib.dll

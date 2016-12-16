@@ -16,18 +16,27 @@ namespace DatabaseLib.Database
 
         public override IDbConnection GetConnection()
         {
-            if (conn == null)
+            try
             {
-                conn = new OracleConnection(this.connStr);
-            }
+                if (conn == null)
+                {
+                    conn = new OracleConnection(this.connStr);
+                }
 
-            if (conn.State != ConnectionState.Open)
-            {
-                conn.Open();
-                OracleGlobalization oracleInfo = ((OracleConnection)conn).GetSessionInfo();
-                oracleInfo.Language = "AMERICAN";
-                ((OracleConnection)conn).SetSessionInfo(oracleInfo);
+                if (conn.State != ConnectionState.Open)
+                {
+                    conn.Open();
+                    OracleGlobalization oracleInfo = ((OracleConnection)conn).GetSessionInfo();
+                    oracleInfo.Language = "AMERICAN";
+                    ((OracleConnection)conn).SetSessionInfo(oracleInfo);
+                }
+
             }
+            catch (Exception e)
+            {
+                throw new Exception("Get Oracle connection fail.", e);
+            }
+            
             
 
             return conn;

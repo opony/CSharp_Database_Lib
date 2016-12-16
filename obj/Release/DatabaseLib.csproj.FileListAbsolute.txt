@@ -1,0 +1,11 @@
+D:\Source\Common\DatabaseLib\bin\Release\DatabaseLib.dll
+D:\Source\Common\DatabaseLib\bin\Release\DatabaseLib.pdb
+D:\Source\Common\DatabaseLib\bin\Release\Oracle.ManagedDataAccess.dll
+D:\Source\Common\DatabaseLib\obj\Release\DatabaseLib.csprojResolveAssemblyReference.cache
+D:\Source\Common\DatabaseLib\obj\Release\DatabaseLib.dll
+D:\Source\Common\DatabaseLib\obj\Release\DatabaseLib.pdb
+D:\Source\Workspaces\V30\Loader\Common\DatabaseLib\bin\Release\DatabaseLib.dll
+D:\Source\Workspaces\V30\Loader\Common\DatabaseLib\bin\Release\DatabaseLib.pdb
+D:\Source\Workspaces\V30\Loader\Common\DatabaseLib\bin\Release\Oracle.ManagedDataAccess.dll
+D:\Source\Workspaces\V30\Loader\Common\DatabaseLib\obj\Release\DatabaseLib.dll
+D:\Source\Workspaces\V30\Loader\Common\DatabaseLib\obj\Release\DatabaseLib.pdb

@@ -1,0 +1,17 @@
+c:\users\10509014\documents\visual studio 2015\Projects\IQCMonitor\DatabaseLib\bin\Debug\DatabaseLib.dll
+c:\users\10509014\documents\visual studio 2015\Projects\IQCMonitor\DatabaseLib\bin\Debug\DatabaseLib.pdb
+c:\users\10509014\documents\visual studio 2015\Projects\IQCMonitor\DatabaseLib\bin\Debug\Oracle.ManagedDataAccess.dll
+c:\users\10509014\documents\visual studio 2015\Projects\IQCMonitor\DatabaseLib\obj\Debug\DatabaseLib.csprojResolveAssemblyReference.cache
+c:\users\10509014\documents\visual studio 2015\Projects\IQCMonitor\DatabaseLib\obj\Debug\DatabaseLib.dll
+c:\users\10509014\documents\visual studio 2015\Projects\IQCMonitor\DatabaseLib\obj\Debug\DatabaseLib.pdb
+D:\Source\Common\DatabaseLib\bin\Debug\DatabaseLib.dll
+D:\Source\Common\DatabaseLib\bin\Debug\DatabaseLib.pdb
+D:\Source\Common\DatabaseLib\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Source\Common\DatabaseLib\obj\Debug\DatabaseLib.csprojResolveAssemblyReference.cache
+D:\Source\Common\DatabaseLib\obj\Debug\DatabaseLib.dll
+D:\Source\Common\DatabaseLib\obj\Debug\DatabaseLib.pdb
+D:\Source\Workspaces\V30\Loader\Common\DatabaseLib\bin\Debug\DatabaseLib.dll
+D:\Source\Workspaces\V30\Loader\Common\DatabaseLib\bin\Debug\DatabaseLib.pdb
+D:\Source\Workspaces\V30\Loader\Common\DatabaseLib\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Source\Workspaces\V30\Loader\Common\DatabaseLib\obj\Debug\DatabaseLib.dll
+D:\Source\Workspaces\V30\Loader\Common\DatabaseLib\obj\Debug\DatabaseLib.pdb
